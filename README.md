@@ -1,9 +1,9 @@
 # Excel-Visualization-of-CPI-Data
 Developed an end-to-end Excel data analysis project examining historical Consumer Price Index (CPI) trends from 2017 to 2023. The project involved data cleaning, transformation, and the categorization of complex economic metrics into broader, actionable categories to uncover macroeconomic inflation patterns and deliver clear visual insights.
 
-# India CPI Inflation Analysis (2013–2023)
+# India CPI Inflation Analysis (2017–2023)
 
-Analysis of India's All-India Consumer Price Index (CPI, base 2012 = 100) across Rural, Urban and Combined sectors. The project cleans the raw index data, computes year-over-year (YoY) inflation, and produces dashboard-ready tables for four problem statements.
+Analysis of India's All-India Consumer Price Index across Rural, Urban and Combined sectors. The project cleans the raw index data, computes year-over-year (YoY) inflation, and produces dashboard-ready tables for four problem statements.
 
 ## Problem statements
 
