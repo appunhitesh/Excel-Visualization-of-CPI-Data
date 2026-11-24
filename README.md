@@ -31,7 +31,7 @@ Analysis of India's All-India Consumer Price Index (CPI, base 2012 = 100) across
 | File | Description |
 |---|---|
 | `All_India_Index_Upto_April23.csv` | Raw CPI index data |
-| `CPI_Inflation_Dashboard_Data.xlsx` | Cleaned data and one set of sheets per problem statement (see below) |
+| `CPI_Visuals.xlsx` | Cleaned data and one set of sheets per problem statement (see below) |
 
 ## Assumptions and limitations
 
